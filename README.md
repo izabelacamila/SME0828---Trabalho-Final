@@ -2,9 +2,11 @@ SME0828 — Trabalho Final
 
 Este repositório reúne o **Trabalho Final da disciplina SME0828 – Introdução à Ciência de Dados**, organizado em três notebooks principais que abordam desde a exploração inicial dos dados até a modelagem preditiva. O conjunto de dados utilizado é o famoso **Abalone Dataset**, cujo objetivo envolve analisar características físicas dos abalones e construir modelos capazes de predizer sua categoria etária (adulto ou infante) ou estimar sua idade aproximada.
 
----
+Aluna: Izabela Camila Souza Silva - 13827570
 
-## Estrutura do Repositório
+<details>
+  
+<summary> <h2 align="center"> Estrutura do Repositório </h2> </summary>
 
 O projeto está dividido em três notebooks, cada um com uma etapa distinta da análise:
 
@@ -38,9 +40,10 @@ Contém:
 * busca de hiperparâmetros via GridSearchCV,
 * avaliação final dos modelos.
 
----
-
-## Objetivo Geral do Trabalho
+</details>
+<details>
+  
+<summary> <h2 align="center"> Objetivo Geral do Trabalho </h2> </summary>
 
 O trabalho tem como propósito aplicar técnicas básicas de **ciência de dados e aprendizado de máquina**, passando por:
 
@@ -51,4 +54,4 @@ O trabalho tem como propósito aplicar técnicas básicas de **ciência de dados
 * interpretação dos resultados obtidos.
 
 Além disso, buscou-se investigar se atributos físicos simples seriam suficientes para prever a idade ou estágio reprodutivo dos abalones sem a necessidade de medições invasivas.
-
+</details>
